@@ -11,14 +11,7 @@ Machine learning in manufacturing commonly powers predictive analytics, robotics
 
 Process plants rely on generative AI to integrate data, analyze it, and produce the deep insights and predictions that help drive better decision-making across the board. Generative AI surfaces patterns and trends that we can use to predict what will come in the future. Generative AI allows plants to forecast fluctuations in demand and supply, estimate the best intervals for maintenance scheduling, and spot early signs of anomalies. With the help of generative AI, manufacturing companies can:
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
